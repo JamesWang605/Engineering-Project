@@ -12,7 +12,7 @@ Digital Circuits
 
 Ear Bud Assy
 
-<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/53390435_102230437611889_1545832680577302528_o.jpg?_nc_cat=110&_nc_ht=scontent-sea1-1.xx&oh=4b51d0abe99fb5aeaedecc16bbcbefe8&oe=5D1FF079" width="38%" height="20%" > <img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/54225083_102230467611886_47179116234932224_n.jpg?_nc_cat=109&_nc_ht=scontent-sea1-1.xx&oh=c3d70deb91426f3477816066f7d906c7&oe=5D237227" width="20%" height="10%" > 
+<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/53390435_102230437611889_1545832680577302528_o.jpg?_nc_cat=110&_nc_ht=scontent-sea1-1.xx&oh=4b51d0abe99fb5aeaedecc16bbcbefe8&oe=5D1FF079" width="20%" height="20%" > <img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/54225083_102230467611886_47179116234932224_n.jpg?_nc_cat=109&_nc_ht=scontent-sea1-1.xx&oh=c3d70deb91426f3477816066f7d906c7&oe=5D237227" width="20%" height="20%" > 
 
 Pumpkin Eye Project
 
