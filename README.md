@@ -1,18 +1,26 @@
 # 2017-2018 T1
 
-## 
+Quad Copter 
 
-For higher video and image processing speed, better 2k gaming experience and to learn more about the structure of a PC.
+# 2017-2018 T2
 
+# 2017-2018 T3
 
+# 201802019 T1
 
-## Perparation
+Digital Circuits
 
-### Budget: 3,000 USD
+Ear Bud Assy
 
-When I first brought this budget to my parent, they refused right away due to high value. After several times rejections, I realized I need not only tell them amount but also list configuration and explained why I need them. Then budget was approved. 
+Pumpkin Eye Project
+
+Video Design
+
+# 201802019 T2
+
+Code.org -- Programming learning
+
+Audio Design
+
   
-#### Configuration List:
-
-CPU: i9 9900k <img src="https://www.scan.co.uk/images/products/2979483-a.jpg" width="20%" height="20%"> Motherboard: Asus Maximus X Formula	<img src="https://c1.neweggimages.com/NeweggImage/ProductImage/13-119-046-V01.jpg" width="20%" height="20%"> 
-
+CPU: i9 9900k <img src="https://www.scan.co.uk/images/products/2979483-a.jpg" width="20%" height="20%"> 
