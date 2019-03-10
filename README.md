@@ -20,7 +20,9 @@ Video Design
 
 Code.org -- Programming learning
 
+<img src="http://open-image.nosdn.127.net/image/snapshot_movie/2018/5/2/3/MDHD42523.jpg"> 
+
 Audio Design
 
   
-CPU: i9 9900k <img src="https://www.scan.co.uk/images/products/2979483-a.jpg" width="20%" height="20%"> 
+CPU: i9 9900k <img src="http://open-image.nosdn.127.net/image/snapshot_movie/2018/5/2/3/MDHD42523.jpg"> 
