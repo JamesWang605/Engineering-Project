@@ -32,10 +32,6 @@ Speaker
 
 ## 2018--2019 T2
 
-Code.org -- Programming learning
-
-<img src="http://open-image.nosdn.127.net/image/snapshot_movie/2018/5/2/3/MDHD42523.jpg" width="40%" height="20%" > 
-
 Keyboard Assy
 
 --wait for up-date  
