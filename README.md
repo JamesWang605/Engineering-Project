@@ -1,4 +1,4 @@
-# S-SM Engineering Project
+# James Wang's Engineering Project
 
 ## G9 2017--2018 T1
 
