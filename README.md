@@ -16,6 +16,8 @@ Ear Bud Assy
 
 Pumpkin Eye Project
 
+<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/54388571_102233964278203_5357696823853056_n.jpg?_nc_cat=106&_nc_eui2=AeH9MFADk6HYcibeErquCj_NnyUFIU32nAThxwB_9OAnXfWbGkRzkK3DipsXH1cBVsZ8utVlxPcjVGdHSvfHt-usrvAhfh8Xx_dcuVg6NfBpEg&_nc_ht=scontent-sea1-1.xx&oh=eef1d721b39a36373ecae24f108a91dc&oe=5D0C4ADD" width="20%" height="20%" > 
+
 Video Design
 
 Speaker Box
